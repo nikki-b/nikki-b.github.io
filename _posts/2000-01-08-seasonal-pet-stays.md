@@ -8,7 +8,7 @@ image:
   feature: seasonalpet/feature.png
 ---
 
-<a href="http://seasonalpetstays.com" class="btn btn-success">Visit Site</a>
+<!-- <a href="http://seasonalpetstays.com" class="btn btn-success">Visit Site</a> -->
 
 Created a page for a professional dog business with rates, availability, and a contact form.
 
